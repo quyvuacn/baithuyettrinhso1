@@ -1,0 +1,11 @@
+td {
+    padding-left: 10px;
+}
+
+td,th{
+    height: 30px;
+}
+
+caption{
+    margin: 15px;
+}
